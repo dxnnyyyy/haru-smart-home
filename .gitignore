@@ -1,0 +1,14 @@
+# Home-Assistant
+home-assistant/config/*
+
+!*.yaml
+!.gitignore
+!*.md
+
+.storage
+.cloud
+.google.token
+
+ip_bans.yaml
+secrets.yaml
+known_devices.yaml
