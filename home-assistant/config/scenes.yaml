@@ -1,0 +1,178 @@
+- id: '1669979803873'
+  name: Haru
+  entities:
+    light.huelightstripleftdown:
+      supported_color_modes:
+      - xy
+      mode: normal
+      dynamics: none
+      friendly_name: HueLightstripLeftDown
+      supported_features: 40
+      color_mode: xy
+      brightness: 255
+      hs_color:
+      - 221.463
+      - 96.471
+      rgb_color:
+      - 9
+      - 85
+      - 255
+      xy_color:
+      - 0.138
+      - 0.08
+      state: 'on'
+    light.huelightstriplefttop:
+      supported_color_modes:
+      - xy
+      mode: normal
+      dynamics: none
+      friendly_name: HueLightstripLeftTop
+      supported_features: 40
+      color_mode: xy
+      brightness: 255
+      hs_color:
+      - 221.463
+      - 96.471
+      rgb_color:
+      - 9
+      - 85
+      - 255
+      xy_color:
+      - 0.138
+      - 0.08
+      state: 'on'
+    light.huelightstriprightdown:
+      supported_color_modes:
+      - xy
+      mode: normal
+      dynamics: none
+      friendly_name: HueLightstripRightDown
+      supported_features: 40
+      color_mode: xy
+      brightness: 255
+      hs_color:
+      - 221.463
+      - 96.471
+      rgb_color:
+      - 9
+      - 85
+      - 255
+      xy_color:
+      - 0.138
+      - 0.08
+      state: 'on'
+    light.huelightstriprighttop:
+      supported_color_modes:
+      - xy
+      mode: normal
+      dynamics: none
+      friendly_name: HueLightstripRightTop
+      supported_features: 40
+      color_mode: xy
+      brightness: 255
+      hs_color:
+      - 221.463
+      - 96.471
+      rgb_color:
+      - 9
+      - 85
+      - 255
+      xy_color:
+      - 0.138
+      - 0.08
+      state: 'on'
+    light.huelamplittletable:
+      supported_color_modes:
+      - brightness
+      mode: normal
+      dynamics: none
+      friendly_name: HueLampLittleTable
+      supported_features: 40
+      color_mode: brightness
+      brightness: 255
+      state: 'on'
+    light.huelampbackright:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      mode: normal
+      dynamics: none
+      friendly_name: HueLampBackRight
+      supported_features: 40
+      color_mode: xy
+      brightness: 255
+      hs_color:
+      - 221.463
+      - 96.471
+      rgb_color:
+      - 9
+      - 85
+      - 255
+      xy_color:
+      - 0.138
+      - 0.08
+      state: 'on'
+  icon: mdi:school
+  metadata: {}
+- id: '1669980744469'
+  name: Haru Off
+  entities:
+    light.huelightstripleftdown:
+      supported_color_modes:
+      - xy
+      mode: normal
+      dynamics: none
+      friendly_name: HueLightstripLeftDown
+      supported_features: 40
+      state: 'off'
+    light.huelightstriplefttop:
+      supported_color_modes:
+      - xy
+      mode: normal
+      dynamics: none
+      friendly_name: HueLightstripLeftTop
+      supported_features: 40
+      state: 'off'
+    light.huelightstriprightdown:
+      supported_color_modes:
+      - xy
+      mode: normal
+      dynamics: none
+      friendly_name: HueLightstripRightDown
+      supported_features: 40
+      state: 'off'
+    light.huelightstriprighttop:
+      supported_color_modes:
+      - xy
+      mode: normal
+      dynamics: none
+      friendly_name: HueLightstripRightTop
+      supported_features: 40
+      state: 'off'
+    light.huelamplittletable:
+      supported_color_modes:
+      - brightness
+      mode: normal
+      dynamics: none
+      friendly_name: HueLampLittleTable
+      supported_features: 40
+      state: 'off'
+    light.huelampbackright:
+      min_color_temp_kelvin: 2000
+      max_color_temp_kelvin: 6535
+      min_mireds: 153
+      max_mireds: 500
+      supported_color_modes:
+      - color_temp
+      - xy
+      mode: normal
+      dynamics: none
+      friendly_name: HueLampBackRight
+      supported_features: 40
+      state: 'off'
+  icon: mdi:school-outline
+  metadata: {}
