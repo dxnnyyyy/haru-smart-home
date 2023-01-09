@@ -13,6 +13,8 @@ We are a group of students of the Stuttgart Media University (Hochschule der Med
 | Fabio Mangiameli | MI7     | fm083@hdm-stuttgart.de |
 | Johannes Nißl    | MI7     | jn033@hdm-stuttgart.de |
 
+## haru smart home ros package
+The Haru Smart Home ROS Package can be found under: https://github.com/dxnnyyyy/haru_smart_home_ros_pkg
 
 ## starting home assistant
 
@@ -22,3 +24,5 @@ We are a group of students of the Stuttgart Media University (Hochschule der Med
 - log in with following information:
   - username: haru
   - password: haru123
+  
+ 
