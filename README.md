@@ -11,7 +11,10 @@ We are a group of students of the Stuttgart Media University (Hochschule der Med
 | Anton Gerdts     | AM7     | ag164@hdm-stuttgart.de |
 | Daniel Koch      | MI7     | dk119@hdm-stuttgart.de |
 | Fabio Mangiameli | MI7     | fm083@hdm-stuttgart.de |
-| Johannes Nißl   | MI7     | jn033@hdm-stuttgart.de |
+| Johannes Nißl    | MI7     | jn033@hdm-stuttgart.de |
+
+## haru smart home ros package
+The Haru Smart Home ROS Package can be found under: https://github.com/dxnnyyyy/haru_smart_home_ros_pkg
 
 ## starting home assistant
 
@@ -20,9 +23,8 @@ We are a group of students of the Stuttgart Media University (Hochschule der Med
 - open [Home Assistant](http://localhost:8123)
 - log in with following information:
   - username: haru
-  - password: haru123
-
-
+  - password: cafe
+  
 ## ros node
 
 1. open terminal and source ros stuff by executing following command ``source ./catkin_ws/devel/setup.bash``
