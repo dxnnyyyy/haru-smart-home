@@ -1,0 +1,36 @@
+appdirs @ file:///home/conda/feedstock_root/build_artifacts/appdirs_1603108395799/work
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1659291887007/work
+autobahn @ file:///home/conda/feedstock_root/build_artifacts/autobahn_1659495082571/work
+Automat @ file:///home/conda/feedstock_root/build_artifacts/automat_1667331175863/work
+bcrypt @ file:///D:/bld/bcrypt_1651441749287/work
+brotlipy==0.7.0
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+cffi @ file:///D:/bld/cffi_1656782940775/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click @ file:///C:/ci/click_1646056762388/work
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+constantly==15.1.0
+cryptography @ file:///D:/bld/cryptography_1657174142266/work
+hyperlink @ file:///home/conda/feedstock_root/build_artifacts/hyperlink_1610092164190/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+incremental @ file:///home/conda/feedstock_root/build_artifacts/incremental_1665859450441/work
+pyasn1==0.4.8
+pyasn1-modules==0.2.7
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+PyHamcrest @ file:///home/conda/feedstock_root/build_artifacts/pyhamcrest_1663745418692/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1663846997386/work
+PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
+python-dotenv @ file:///C:/b/abs_edyrwjya7k/croot/python-dotenv_1669132572913/work
+pywin32==302
+requests @ file:///C:/ci/requests_1657735340829/work
+roslibpy @ file:///home/conda/feedstock_root/build_artifacts/roslibpy_1645514667718/work
+service-identity==18.1.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+Twisted @ file:///C:/Windows/Temp/abs_ccblv2rzfa/croots/recipe/twisted_1659592764512/work
+twisted-iocpsupport @ file:///D:/bld/twisted-iocpsupport_1649418015679/work
+txaio @ file:///home/conda/feedstock_root/build_artifacts/txaio_1613846340982/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1665144421445/work
+urllib3 @ file:///C:/b/abs_9bcwxczrvm/croot/urllib3_1673575521331/work
+win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
+wincertstore==0.2
+zope.interface @ file:///C:/ci_310/zope.interface_1642113633904/work
